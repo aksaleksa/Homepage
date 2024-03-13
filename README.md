@@ -1,1 +1,1 @@
-# Homepage
+This project used responsive design principles to create a layout and styling that adjust to changing screen sizes. The final result showcases some of my previous projects.
